@@ -5,3 +5,4 @@ iOS Internacionalização
     pelo iOS.
 
     Criado por Kaê Angeli Coutinho.
+    
